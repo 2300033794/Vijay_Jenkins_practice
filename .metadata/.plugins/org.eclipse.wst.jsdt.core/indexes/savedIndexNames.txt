@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\DEVOPS\LAST\jenkins_last\DEVOPS-FULLSTACK-PROJECT\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+565797325.index
+3401208492.index
+3200702476.index
+2987869176.index
+3598467330.index
+3339746719.index
